@@ -1,0 +1,30 @@
+# Compiled Python files
+*.pyc
+
+# Compiled C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment and virtualenvs
+env/
+venv/
+*.env
+.env
+
+# Local development settings
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Other
+__pycache__/
+*.pyo
+*.egg-info
+.idea/
+.vscode/
+*.bak

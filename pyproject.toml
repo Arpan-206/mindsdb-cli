@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "mindsdb-cli"
+version = "0.1.0"
+description = "This is an unofficial interactive CLI interface for MindsDB, an open-source, automated machine learning framework. With this CLI, you can interact with MindsDB directly from the command line, allowing you to train, test, and deploy machine learning models quickly and easily."
+authors = ["Arpan Pandey <arpan@hackersreboot.tech>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+mindsdb-sdk = "^1.0.2"
+PyInquirer = "^1.0.3"
+rich = "^13.3.5"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+autopep8 = "^2.0.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
