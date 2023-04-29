@@ -2,11 +2,11 @@
 
 ![Mindsdb CLI Thumbnail](MindsDB_CLI.svg)
 
-This is an unofficial command-line interface (CLI) for MindsDB, created for the [Hashnode](https://hashnode.com)x[Mindsdb](https://mindsdb.com) Hackathon. It allows you to view and run things from the terminal, making it easier to interact with MindsDB.
+This is an unofficial command-line interface (CLI) for MindsDB, created for the [Hashnode](https://hashnode.com)x[Mindsdb](https://cloud.mindsdb.com) Hackathon. It allows you to view and run things from the terminal, making it easier to interact with MindsDB.
 
 ## Requirements
 
-To use this CLI, you will need to have MindsDB installed on your system. You can find installation instructions at the official [MindsDB website](https://mindsdb.com). 
+To use this CLI, you will need to have MindsDB installed on your system. You can find installation instructions at the official [MindsDB website](https://cloud.mindsdb.com). 
 
 Additionally, this CLI is written in Python and requires Python 3.6 or higher to be installed on your system.
 
